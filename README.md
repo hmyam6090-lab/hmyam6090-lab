@@ -11,6 +11,4 @@ Quick snapshot
 Links
 - GitHub: https://github.com/hmyam6090-lab
 - Itch.io: https://hmyam6090-lab.itch.io/
-- Portfolio / Live demos: (paste link if you want this added)
-
-Want it shorter or with a different tone (casual / professional)? Drop which 2–3 projects to highlight and I’ll add concise cards with links.
+- Portfolio: https://quanhoang.dev/
