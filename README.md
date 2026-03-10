@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi — I'm hmyam6090-lab 👋
+Aspiring game developer & creative coder. I build fast prototypes, playful games, and interactive visual experiments — often with Godot, Unity, WebGL, and creative JS.
 
-<!--
-**hmyam6090-lab/hmyam6090-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](#) [![Top Langs](https://img.shields.io/github/languages/top/hmyam6090-lab)](#)
 
-Here are some ideas to get you started:
+Quick snapshot
+- Focus: gameplay-first prototypes, co-op systems, generative visuals
+- Tools: Godot · Unity · three.js · p5.js · GLSL · C# · TypeScript · Lua · Python
+- Work: game jams, itch.io releases, web demos, research & hardware projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Links
+- GitHub: https://github.com/hmyam6090-lab
+- Itch.io: https://hmyam6090-lab.itch.io/
+- Portfolio / Live demos: (paste link if you want this added)
+
+Want it shorter or with a different tone (casual / professional)? Drop which 2–3 projects to highlight and I’ll add concise cards with links.
