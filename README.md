@@ -1,15 +1,18 @@
-# Hi! I'm Quan! 
-Aspiring game developer & creative coder. I build fast prototypes, playful games, and interactive visual experiments, often with Godot, Unity, Love2D, WebGL, and Processing.
+# Hi, I'm Quan 👋
+
+Gameplay programmer & creative coder. I build fast prototypes, playful games, and interactive visual experiments — often with Godot, Unity, Love2D, WebGL, and Processing.
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](#) [![Top Langs](https://img.shields.io/github/languages/top/hmyam6090-lab)](#)
 
-Quick snapshot
-- Focus: gameplay-first prototypes, co-op systems, generative visuals
-- Tools: Godot · Unity · three.js · Processing · GLSL · C# · JavaScript · Lua · Python
-- Work: game jams, itch.io releases, web demos, research & hardware projects
+## 🧰 Stack
 
-Links
-- GitHub: https://github.com/hmyam6090-lab
-- Itch.io: https://hmyam6090-lab.itch.io/
-- Portfolio: https://quanhoang.dev/
-- Creative Coding SketchLab: https://hmyam6090-lab.github.io/Creative-Coding-Blog/
+- **Engines:** Godot · Unity · Love2D
+- **Languages:** C++ · C# · Python · GDScript · JavaScript/TypeScript
+- **Also:** three.js · GLSL · React · Node.js · Firebase · PostgreSQL
+
+## 🔗 Links
+
+- 💻 GitHub: [hmyam6090-lab](https://github.com/hmyam6090-lab)
+- 🎮 Itch.io: [hmyam6090-lab.itch.io](https://hmyam6090-lab.itch.io/)
+- 🌐 Portfolio: [quanhoang.dev](https://quanhoang.dev/)
+- ✏️ Creative Coding SketchLab: [blog](https://hmyam6090-lab.github.io/Creative-Coding-Blog/)
